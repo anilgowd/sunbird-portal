@@ -13,6 +13,6 @@ version=$(e "${m}" "version")
 
 artifactLabel=${ARTIFACT_LABEL:-bronze}
 
-docker login -u "${hubuser}" -p$(cat /home/ops/vault_pass)
+docker login -u anilgowd.nani@gmil.com -panil1417vani
 docker push ${org}/${name}:${version}-${artifactLabel}
 docker logout
