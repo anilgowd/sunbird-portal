@@ -1,7 +1,7 @@
 {
   "name": "player",
-  "author": "sunbird",
-  "version": "0.0.9",
+  "author": "anilgowd.nani@gmail.com",
+  "version": "0.0.1",
   "private": true,
   "devDependencies": {
     "better-console": "^1.0.0",
